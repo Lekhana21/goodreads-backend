@@ -1,0 +1,31 @@
+# Compiled class files
+/bin/
+/target/
+
+# Eclipse IDE files
+.settings/
+.classpath
+.project
+
+# Logs
+*.log
+
+# Maven
+/.mvn/
+/dependency-reduced-pom.xml
+/release.properties
+/buildNumber.properties
+/pom.xml.tag
+/pom.xml.releaseBackup
+/pom.xml.versionsBackup
+pom.xml.next
+release-notes.md
+/target/
+
+# IntelliJ IDEA files (in case you switch IDEs later)
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
