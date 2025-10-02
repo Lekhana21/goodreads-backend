@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Optional;
 @RestController
 @RequestMapping("/api/books")
-@CrossOrigin(origins="http://127.0.0.1:5500")
+@CrossOrigin(origins="https://effortless-pixie-a47dc9.netlify.app")
 public class BookController {
 	@Autowired
 	private BookService bookService;

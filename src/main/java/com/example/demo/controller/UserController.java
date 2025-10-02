@@ -9,7 +9,8 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/api/users")
-@CrossOrigin(origins = "http://127.0.0.1:5500")
+@CrossOrigin(origins = "https://effortless-pixie-a47dc9.netlify.app")
+
 public class UserController {
 
     @Autowired
