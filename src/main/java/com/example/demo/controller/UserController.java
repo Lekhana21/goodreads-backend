@@ -9,6 +9,7 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/api/users")
+@CrossOrigin(origins = "https://effortless-pixie-a47dc9.netlify.app") // allow your frontend
 public class UserController {
 
     @Autowired
